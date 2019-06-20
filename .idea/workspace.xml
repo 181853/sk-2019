@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0547c371-891e-4e52-bf9b-4ae6a71e171d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__NOTATKI__/cwiczenia-7/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__NOTATKI__/cwiczenia-7/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__NOTATKI__/cwiczenia-7/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__NOTATKI__/cwiczenia-12-exam/diagram-dia.png" beforeDir="false" afterPath="$PROJECT_DIR$/__NOTATKI__/cwiczenia-12-exam/diagram-dia.png" afterDir="false" />
-    </list>
+    <list default="true" id="0547c371-891e-4e52-bf9b-4ae6a71e171d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -63,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/__NOTATKI__/cwiczenia-7/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="239">
-                <caret line="76" selection-start-line="76" selection-end-line="76" />
+              <first_editor relative-caret-position="392">
+                <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
               </first_editor>
               <second_editor />
             </state>
@@ -141,12 +134,6 @@
             <path>
               <item name="sk-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="sk-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="__NOTATKI__" type="462c0819:PsiDirectoryNode" />
-              <item name="cwiczenia-7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sk-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sk-2019" type="462c0819:PsiDirectoryNode" />
               <item name="cwiczenia-7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -191,18 +178,17 @@
       <option name="presentableId" value="Default" />
       <updated>1560554692689</updated>
       <workItem from="1560554694864" duration="76000" />
-      <workItem from="1561060603012" duration="877000" />
+      <workItem from="1561060603012" duration="1065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="953000" />
+    <option name="totallyTimeSpent" value="1141000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="805" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2734375" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13879709" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -214,7 +200,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295129" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32577905" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -296,8 +282,8 @@
     <entry file="file://$PROJECT_DIR$/__NOTATKI__/cwiczenia-7/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="239">
-            <caret line="76" selection-start-line="76" selection-end-line="76" />
+          <first_editor relative-caret-position="392">
+            <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
           </first_editor>
           <second_editor />
         </state>
